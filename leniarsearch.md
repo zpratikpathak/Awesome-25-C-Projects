@@ -6,6 +6,7 @@ void main()
 int n, key, a[SIZE], i, found =0; 
 printf("Enter the size of array : "); 
 scanf("%d", &n); 
+//hu
 printf("Enter the numbers in array \n"); 
 for(i=0; i < n; i++) 
 scanf ("%d", &a[i]); 
