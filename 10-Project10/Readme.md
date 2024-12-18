@@ -2,16 +2,24 @@
 
 ## Description
 
-This is the description for Project 10.
+This project is a simple "Library Management System". The program allows the user to add, delete, update, and view book records. Each book record contains a unique book ID, title, author, and availability status. The user can manage the book records through a command-line interface.
 
 ## Tools Needed
 
-- Tool 1
-- Tool 2
-- Tool 3
+- GCC Compiler
+- Text Editor (e.g., Visual Studio Code, Sublime Text)
+- Terminal/Command Prompt
 
 ## How to Run
 
-1. Step 1 to run the project.
-2. Step 2 to run the project.
-3. Step 3 to run the project.
+1. Open the terminal or command prompt.
+2. Navigate to the directory where the project files are located.
+3. Compile the code using the GCC compiler with the following command:
+   ```
+   gcc -o library_management_system library_management_system.c
+   ```
+4. Run the compiled program with the following command:
+   ```
+   ./library_management_system
+   ```
+5. Follow the on-screen instructions to add, delete, update, and view book records.
