@@ -8,40 +8,40 @@ If you want to contribute. [Click here to know How to contribute](#Contributing)
 # Projects
 ## Beginner
 [01 Example](01-Example/Readme.md) - A Example Project for reference.
-[02 Project1](02-Project1/Readme.md) - A simple calculator that performs basic arithmetic operations.
-[03 Project2](03-Project2/Readme.md) - A simple "Hello, World!" program.
-[04 Project3](03-Project3/Readme.md) - A simple "Guess the Number" game.
-[05 Project4](04-Project4/Readme.md) - A simple "Tic-Tac-Toe" game.
-[06 Project5](05-Project5/Readme.md) - A simple "Rock, Paper, Scissors" game.
-[07 Project6](06-Project6/Readme.md) - A simple "Temperature Converter" program.
-[08 Project7](07-Project7/Readme.md) - A simple "To-Do List" application.
-[09 Project8](08-Project8/Readme.md) - A simple "Bank Management System".
-[10 Project9](09-Project9/Readme.md) - A simple "Student Management System".
-[11 Project10](10-Project10/Readme.md) - A simple "Library Management System".
+[01 Calculator](01-Calculator/Readme.md) - A simple calculator that performs basic arithmetic operations.
+[02 HelloWorld](02-HelloWorld/Readme.md) - A simple "Hello, World!" program.
+[03 GuessTheNumber](03-GuessTheNumber/Readme.md) - A simple "Guess the Number" game.
+[04 TicTacToe](04-TicTacToe/Readme.md) - A simple "Tic-Tac-Toe" game.
+[05 RockPaperScissors](05-RockPaperScissors/Readme.md) - A simple "Rock, Paper, Scissors" game.
+[06 TemperatureConverter](06-TemperatureConverter/Readme.md) - A simple "Temperature Converter" program.
+[07 ToDoList](07-ToDoList/Readme.md) - A simple "To-Do List" application.
+[08 BankManagementSystem](08-BankManagementSystem/Readme.md) - A simple "Bank Management System".
+[09 StudentManagementSystem](09-StudentManagementSystem/Readme.md) - A simple "Student Management System".
+[10 LibraryManagementSystem](10-LibraryManagementSystem/Readme.md) - A simple "Library Management System".
 
 ## Intermediate
-[12 Project11](11-Project11/Readme.md) - A simple "Contact Management System".
-[13 Project12](12-Project12/Readme.md) - A simple "Expense Tracker" application.
-[14 Project13](13-Project13/Readme.md) - A simple "Maze Solver".
-[15 Project14](14-Project14/Readme.md) - A simple "Weather Forecasting System".
-[16 Project15](15-Project15/Readme.md) - A simple "Unit Converter" program.
-[17 Project16](16-Project16/Readme.md) - A simple "Currency Converter" program.
-[18 Project17](17-Project17/Readme.md) - A simple "Hangman" game.
-[19 Project18](18-Project18/Readme.md) - A simple "BMI Calculator".
-[20 Project19](19-Project19/Readme.md) - A simple "Quiz Game".
-[21 Project20](20-Project20/Readme.md) - A simple "Password Generator".
+[11 ContactManagementSystem](11-ContactManagementSystem/Readme.md) - A simple "Contact Management System".
+[12 ExpenseTracker](12-ExpenseTracker/Readme.md) - A simple "Expense Tracker" application.
+[13 MazeSolver](13-MazeSolver/Readme.md) - A simple "Maze Solver".
+[14 WeatherForecastingSystem](14-WeatherForecastingSystem/Readme.md) - A simple "Weather Forecasting System".
+[15 UnitConverter](15-UnitConverter/Readme.md) - A simple "Unit Converter" program.
+[16 CurrencyConverter](16-CurrencyConverter/Readme.md) - A simple "Currency Converter" program.
+[17 Hangman](17-Hangman/Readme.md) - A simple "Hangman" game.
+[18 BMICalculator](18-BMICalculator/Readme.md) - A simple "BMI Calculator".
+[19 QuizGame](19-QuizGame/Readme.md) - A simple "Quiz Game".
+[20 PasswordGenerator](20-PasswordGenerator/Readme.md) - A simple "Password Generator".
 
 ## Advanced
-[22 Project21](21-Project21/Readme.md) - A simple "Memory Game".
-[23 Project22](22-Project22/Readme.md) - A simple "Prime Number Checker".
-[24 Project23](23-Project23/Readme.md) - A simple "Prime Number Generator".
-[25 Project24](24-Project24/Readme.md) - A simple "Prime Number Generator".
-[26 Project25](25-Project25/Readme.md) - A simple "Palindrome Checker".
-[27 Project26](26-Project26/Readme.md) - A simple "Palindrome Checker".
-[28 Project27](27-Project27/Readme.md) - A simple "Palindrome Checker".
-[29 Project28](28-Project28/Readme.md) - A simple "Palindrome Checker".
-[30 Project29](29-Project29/Readme.md) - A simple "Palindrome Checker".
-[31 Project30](30-Project30/Readme.md) - Project 30 description.
+[21 MemoryGame](21-MemoryGame/Readme.md) - A simple "Memory Game".
+[22 PrimeNumberChecker](22-PrimeNumberChecker/Readme.md) - A simple "Prime Number Checker".
+[23 PrimeNumberGenerator](23-PrimeNumberGenerator/Readme.md) - A simple "Prime Number Generator".
+[24 PrimeNumberGenerator](24-PrimeNumberGenerator/Readme.md) - A simple "Prime Number Generator".
+[25 PalindromeChecker](25-PalindromeChecker/Readme.md) - A simple "Palindrome Checker".
+[26 PalindromeChecker](26-PalindromeChecker/Readme.md) - A simple "Palindrome Checker".
+[27 PalindromeChecker](27-PalindromeChecker/Readme.md) - A simple "Palindrome Checker".
+[28 PalindromeChecker](28-PalindromeChecker/Readme.md) - A simple "Palindrome Checker".
+[29 PalindromeChecker](29-PalindromeChecker/Readme.md) - A simple "Palindrome Checker".
+[30 Project30](30-Project30/Readme.md) - Project 30 description.
 
 # Contributing
 
