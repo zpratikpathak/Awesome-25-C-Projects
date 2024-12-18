@@ -1,1 +1,0 @@
-Program of C language
